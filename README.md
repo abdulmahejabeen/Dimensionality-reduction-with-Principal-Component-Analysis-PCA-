@@ -1,4 +1,4 @@
-# Dimensionality reduction with PCA
+# Dimensionality reduction with PCA on Penguins dataset
 ## Objective
 To classify each sample into types of species based on its attributes.
 
